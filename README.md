@@ -3,7 +3,7 @@
 
 **Para apresentação completa de meu perfil profissional, convido para que visite meu Linkedin:**
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/maria-luiza-vasconcellos-zanin-0aba3a139/) 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=wihite)](https://www.linkedin.com/in/maria-luiza-vasconcellos-zanin-0aba3a139/) 
 
 -------------
 
@@ -16,7 +16,8 @@
 ### **No momento estou focando meus estudos em JavaScript e Python!**
 
 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 -----------
 
 
@@ -32,6 +33,10 @@
 |Automação Industrial|
 |Microsoft Power Bi|
 |Fundamentos de Nuvem **(Microsoft AZ-900)**|
+---------------------
+### Meu e-mail para contato:
 
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
+maria.zanin.1993@gmail.com
 
