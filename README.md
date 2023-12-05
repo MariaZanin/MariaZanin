@@ -1,4 +1,4 @@
-# **Olá 👋🏻, sou Maria Luiza V. Zanin 👩🏻**
+# **Olá 👋🏻, sou Maria Luiza V. Zanin 👩🏻💻**
 
 
 **Para apresentação completa de meu perfil profissional, convido para que visite meu Linkedin:**
